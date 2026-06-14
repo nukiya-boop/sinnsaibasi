@@ -19,16 +19,16 @@ OUTPUT = "/home/user/sinnsaibasi/output.mp4"
 # 使用する画像と各シーンのテロップ設定
 SCENES = [
     {
-        "image": "DSC07395.jpg",
-        "duration": 4.0,
+        "image": "DSC00416.jpg",
+        "duration": 4.5,
         "telops": [
             {"text": "心斎橋", "size": 90, "y_ratio": 0.12, "delay": 0.3, "sub": False},
             {"text": "大人の隠れ家", "size": 52, "y_ratio": 0.22, "delay": 0.8, "sub": True},
         ],
     },
     {
-        "image": "DSC00416.jpg",
-        "duration": 4.5,
+        "image": "DSC07395.jpg",
+        "duration": 4.0,
         "telops": [
             {"text": "職人が選んだ食材", "size": 58, "y_ratio": 0.78, "delay": 0.3, "sub": True},
             {"text": "こだわりのコース料理", "size": 48, "y_ratio": 0.87, "delay": 0.9, "sub": True},

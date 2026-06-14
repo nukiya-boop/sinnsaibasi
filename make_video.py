@@ -68,14 +68,14 @@ SCENES = [
     },
     {
         "image": "_MG_1135.jpg",
-        "duration": 4.0,
+        "duration": 2.5,
         "telops": [
             {"text": "ご予約はこちら", "size": 58, "y_ratio": 0.80, "delay": 0.3, "sub": True},
         ],
     },
     {
         "image": "心斎橋QR文字入り.jpg",
-        "duration": 4.0,
+        "duration": 2.5,
         "telops": [],
     },
 ]

@@ -52,9 +52,25 @@ SCENES = [
     },
     {
         "image": "_MG_0989修.jpg",
-        "duration": 3.5,
+        "duration": 4.0,
         "telops": [
-            {"text": "ご予約はこちら", "size": 52, "y_ratio": 0.80, "delay": 0.3, "sub": True},
+            {"text": "五感で楽しむ", "size": 64, "y_ratio": 0.76, "delay": 0.3, "sub": True},
+            {"text": "一夜限りの体験", "size": 50, "y_ratio": 0.86, "delay": 0.9, "sub": True},
+        ],
+    },
+    {
+        "image": "_MG_1126.jpg",
+        "duration": 4.0,
+        "telops": [
+            {"text": "食の芸術", "size": 72, "y_ratio": 0.76, "delay": 0.3, "sub": True},
+            {"text": "職人の技が織りなすひと皿", "size": 44, "y_ratio": 0.87, "delay": 0.9, "sub": True},
+        ],
+    },
+    {
+        "image": "_MG_1135.jpg",
+        "duration": 4.0,
+        "telops": [
+            {"text": "ご予約はこちら", "size": 58, "y_ratio": 0.80, "delay": 0.3, "sub": True},
         ],
     },
     {

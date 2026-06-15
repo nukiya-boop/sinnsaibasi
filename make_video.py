@@ -22,7 +22,7 @@ SCENES = [
         "image": "DSC00416.jpg",
         "duration": 4.5,
         "telops": [
-            {"text": "心斎橋", "size": 90, "y_ratio": 0.12, "delay": 0.3, "sub": False},
+            {"text": "心斎橋禅園", "size": 90, "y_ratio": 0.12, "delay": 0.3, "sub": False},
             {"text": "大人の隠れ家", "size": 52, "y_ratio": 0.22, "delay": 0.8, "sub": True},
         ],
     },
@@ -62,7 +62,7 @@ SCENES = [
         "image": "_MG_1126.jpg",
         "duration": 4.0,
         "telops": [
-            {"text": "食の芸術", "size": 72, "y_ratio": 0.76, "delay": 0.3, "sub": True},
+            {"text": "壁に飾られた茶器", "size": 60, "y_ratio": 0.76, "delay": 0.3, "sub": True},
             {"text": "職人の技が織りなすひと皿", "size": 44, "y_ratio": 0.87, "delay": 0.9, "sub": True},
         ],
     },

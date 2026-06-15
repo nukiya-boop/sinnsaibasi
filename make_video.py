@@ -63,14 +63,14 @@ SCENES = [
         "duration": 4.0,
         "telops": [
             {"text": "壁に飾られた茶器", "size": 60, "y_ratio": 0.76, "delay": 0.3, "sub": True},
-            {"text": "職人の技が織りなすひと皿", "size": 44, "y_ratio": 0.87, "delay": 0.9, "sub": True},
+            {"text": "どこか異国情緒を感じる和空間で", "size": 40, "y_ratio": 0.87, "delay": 0.9, "sub": True},
         ],
     },
     {
         "image": "_MG_1135.jpg",
         "duration": 2.5,
         "telops": [
-            {"text": "ご予約はこちら", "size": 58, "y_ratio": 0.80, "delay": 0.3, "sub": True},
+            {"text": "特別なひとときをお過ごしください", "size": 42, "y_ratio": 0.80, "delay": 0.3, "sub": True},
         ],
     },
     {
